@@ -1,2 +1,2 @@
-# dio-trilha-java-basico
-Repositório para exercícios do curso de java da DIO/Santander 
+# dio - trilha-java-basico
+Exercício do curso de java da DIO/Santander 
